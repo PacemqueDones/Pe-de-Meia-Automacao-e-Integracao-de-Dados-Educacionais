@@ -7,6 +7,7 @@ import pandas as pd
 from datetime import date
 import sgpAPI
 
+
 # Configuração inicial da página
 st.set_page_config(page_title="API Pé de Meia",layout="wide")
 
