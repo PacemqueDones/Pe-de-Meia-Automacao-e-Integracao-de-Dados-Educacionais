@@ -4,7 +4,6 @@ from datetime import datetime, date
 import sgpAPI
 import downloadBase
 
-
 def cadastroAPI(
     url = 'https://api-cmde.api.pedemeia-dev.nees.ufal.br/v1/estudantes?page={}&per_page=5000&situacao_matricula=ATIVAS',
     MES = 'SETEMBRO',
